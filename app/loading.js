@@ -1,9 +1,8 @@
 import React from 'react'
 
 function Loading() {
-  console.log("Loading...")
   return (
-    <div>Loading about segment....</div>
+    <div>Loading ....</div>
   )
 }
 
